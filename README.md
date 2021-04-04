@@ -5,3 +5,4 @@ Control of a Mobile Robot equipped with a RGB Camera to follow a round-shaped sq
 Please make sure to have the following installed:
 * Python3
 * NumPy
+* Matplotlib

@@ -5,8 +5,8 @@ Code for control of a mobile robot equipped with a RGB camera to follow a round-
 
 ## Overview of the Repository
 In this repo, you'll find :
-* `utils.py`: 
-* `visual_servoing.py`: 
+* `utils.py`: code for circuit generation, frame transformations, and animations.
+* `visual_servoing.py`: code for running simulation and plotting results.
 
 ## Getting Started
 1.  Clone repo: `git clone https://github.com/husseinxyz/Visual-Servoing.git`

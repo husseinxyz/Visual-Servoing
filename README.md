@@ -1,4 +1,4 @@
-# Visual-Servoing
+# Visual Servoing
 
 ## Introduction
 Code for control of a mobile robot equipped with a RGB camera to follow a round-shaped square trajectory using visual servoing techniques instead of calculating the pose of the camera and correcting the error. The yaw angle is controlled to follow the path in the middle from visual data using visual servoing techniques.
